@@ -1,6 +1,6 @@
 
     .header-image {
-        height: 90vh;
+        height: 70vh;
         background-image: linear-gradient(rgba(0, 0, 0, 0.274),rgba(0, 0, 0, 0.274)), url(motorcycle/img-1.jpg);
         background-size: cover;
         background-position: center;
